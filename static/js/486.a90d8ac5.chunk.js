@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[486],{486:u=>{u.exports=JSON.parse('[{"word":"Apula","definition":"Anjing"},{"word":"Ambuwa","definition":"Berkumpul"}]')}}]);
