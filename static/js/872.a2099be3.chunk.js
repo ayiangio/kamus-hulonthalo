@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[872],{872:a=>{a.exports=JSON.parse('[{"word":"Jo","definition":"Ya"},{"word":"Jalipata","definition":"Jangan Lupa"}]')}}]);

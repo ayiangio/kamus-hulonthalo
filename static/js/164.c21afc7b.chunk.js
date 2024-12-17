@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[164],{164:s=>{s.exports=JSON.parse('[{"word":"","definition":""}]')}}]);

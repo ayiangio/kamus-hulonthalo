@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[654],{654:a=>{a.exports=JSON.parse('[{"word":"Lamari","definition":"Lamari"},{"word":"Lango","definition":"Lalat"},{"word":"Lutu","definition":"Pisang"}]')}}]);

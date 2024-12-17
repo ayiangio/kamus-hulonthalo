@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[552],{552:e=>{e.exports=JSON.parse('[{"word":"Rasipede","definition":"Sepada"}]')}}]);

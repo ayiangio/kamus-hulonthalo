@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[938],{938:s=>{s.exports=JSON.parse('[{"word":"Pisau","definition":"Pito"}]')}}]);
