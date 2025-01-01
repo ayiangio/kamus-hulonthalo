@@ -1,7 +1,30 @@
 [
-    { "word": "Hulodu", "definition": "Bodoh" },
-    { "word": "Huta", "definition": "Tanah" }
-
+	{
+		"word": "Habari",
+		"definition": "Kabar"
+	},
+	{
+		"word": "Haga",
+		"definition": "Tertegun"
+	},
+	{
+		"word": "Halahadi",
+		"definition": "Gergaji"
+	},
+	{
+		"word": "Halati",
+		"definition": "Gelas"
+	},
+	{
+		"word": "Hamisi",
+		"definition": "Hari Kamis"
+	},
+	{
+		"word": "Hulodu",
+		"definition": "Bodoh"
+	},
+	{
+		"word": "Huta",
+		"definition": "Tanah"
+	}
 ]
-  
-  

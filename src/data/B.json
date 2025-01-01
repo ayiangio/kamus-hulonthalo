@@ -1,11 +1,50 @@
 [
-    { "word": "Boi", "definition": "Binatang Babi" },
-    { "word": "Buheli", "definition": "Berani" },
-    { "word": "Bo'o", "definition": "Baju" },
-    { "word": "Bulango", "definition": "Sungai" },
-    { "word": "Bungolo", "definition": "Budek" },
-    { "word": "Bibio", "definition": "Bebek" },
-    { "word": "Botu", "definition": "Batu" }
+	{
+		"word": "Baangi",
+		"definition": "Permintaan Membuka Jalan"
+	},
+	{
+		"word": "Baango",
+		"definition": "Terang"
+	},
+	{
+		"word": "Balo",
+		"definition": "Pagar"
+	},
+	{
+		"word": "Bangga",
+		"definition": "Bangku Duduk"
+	},
+	{
+		"word": "Bate",
+		"definition": "Pemangku Adat"
+	},
+	{
+		"word": "Bibio",
+		"definition": "Bebek"
+	},
+	{
+		"word": "Bo'o",
+		"definition": "Baju"
+	},
+	{
+		"word": "Boi",
+		"definition": "Binatang Babi"
+	},
+	{
+		"word": "Botu",
+		"definition": "Batu"
+	},
+	{
+		"word": "Buheli",
+		"definition": "Berani"
+	},
+	{
+		"word": "Bulango",
+		"definition": "Sungai"
+	},
+	{
+		"word": "Bungolo",
+		"definition": "Budek"
+	}
 ]
-  
-  
