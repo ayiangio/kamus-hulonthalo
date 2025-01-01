@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[65],{65:n=>{n.exports=JSON.parse('[{"word":"E\'ya","definition":"Tuhan"},{"word":"Ego","definition":"Binatang Monyet"},{"word":"Elengge","definition":"Berdansa"},{"word":"Epao","definition":"Mengkal"},{"word":"Esi","definition":"Es"}]')}}]);

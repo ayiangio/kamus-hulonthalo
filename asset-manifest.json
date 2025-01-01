@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kamus-hulonthalo/static/css/main.0933676c.css",
-    "main.js": "/kamus-hulonthalo/static/js/main.1dd0a8a3.js",
-    "static/js/541.10b719ff.chunk.js": "/kamus-hulonthalo/static/js/541.10b719ff.chunk.js",
-    "static/js/312.a6dec1db.chunk.js": "/kamus-hulonthalo/static/js/312.a6dec1db.chunk.js",
-    "static/js/339.0ea1cbab.chunk.js": "/kamus-hulonthalo/static/js/339.0ea1cbab.chunk.js",
-    "static/js/606.c08822af.chunk.js": "/kamus-hulonthalo/static/js/606.c08822af.chunk.js",
-    "static/js/65.bea4201a.chunk.js": "/kamus-hulonthalo/static/js/65.bea4201a.chunk.js",
-    "static/js/652.46012266.chunk.js": "/kamus-hulonthalo/static/js/652.46012266.chunk.js",
-    "static/js/719.65d4b5ca.chunk.js": "/kamus-hulonthalo/static/js/719.65d4b5ca.chunk.js",
-    "static/js/154.db8ae682.chunk.js": "/kamus-hulonthalo/static/js/154.db8ae682.chunk.js",
-    "static/js/237.bb2b813a.chunk.js": "/kamus-hulonthalo/static/js/237.bb2b813a.chunk.js",
+    "main.js": "/kamus-hulonthalo/static/js/main.a8f10c4a.js",
+    "static/js/541.44cd067b.chunk.js": "/kamus-hulonthalo/static/js/541.44cd067b.chunk.js",
+    "static/js/312.99ba7aab.chunk.js": "/kamus-hulonthalo/static/js/312.99ba7aab.chunk.js",
+    "static/js/339.ce4f92d1.chunk.js": "/kamus-hulonthalo/static/js/339.ce4f92d1.chunk.js",
+    "static/js/606.69ae19e2.chunk.js": "/kamus-hulonthalo/static/js/606.69ae19e2.chunk.js",
+    "static/js/65.56d00290.chunk.js": "/kamus-hulonthalo/static/js/65.56d00290.chunk.js",
+    "static/js/652.74f8cb8a.chunk.js": "/kamus-hulonthalo/static/js/652.74f8cb8a.chunk.js",
+    "static/js/719.3c4a8a2a.chunk.js": "/kamus-hulonthalo/static/js/719.3c4a8a2a.chunk.js",
+    "static/js/154.77fbbb36.chunk.js": "/kamus-hulonthalo/static/js/154.77fbbb36.chunk.js",
+    "static/js/237.5e7d0b2c.chunk.js": "/kamus-hulonthalo/static/js/237.5e7d0b2c.chunk.js",
     "static/js/872.a2099be3.chunk.js": "/kamus-hulonthalo/static/js/872.a2099be3.chunk.js",
     "static/js/267.202f290e.chunk.js": "/kamus-hulonthalo/static/js/267.202f290e.chunk.js",
     "static/js/654.56b4a245.chunk.js": "/kamus-hulonthalo/static/js/654.56b4a245.chunk.js",
@@ -18,22 +18,22 @@
     "static/js/60.5ef198f4.chunk.js": "/kamus-hulonthalo/static/js/60.5ef198f4.chunk.js",
     "static/js/447.9e6241b9.chunk.js": "/kamus-hulonthalo/static/js/447.9e6241b9.chunk.js",
     "static/js/938.0b865d57.chunk.js": "/kamus-hulonthalo/static/js/938.0b865d57.chunk.js",
-    "static/js/669.72ffa26c.chunk.js": "/kamus-hulonthalo/static/js/669.72ffa26c.chunk.js",
+    "static/js/669.b6618a63.chunk.js": "/kamus-hulonthalo/static/js/669.b6618a63.chunk.js",
     "static/js/552.b649bf68.chunk.js": "/kamus-hulonthalo/static/js/552.b649bf68.chunk.js",
     "static/js/451.72bc7b8d.chunk.js": "/kamus-hulonthalo/static/js/451.72bc7b8d.chunk.js",
     "static/js/486.8f6b22de.chunk.js": "/kamus-hulonthalo/static/js/486.8f6b22de.chunk.js",
-    "static/js/673.b980c689.chunk.js": "/kamus-hulonthalo/static/js/673.b980c689.chunk.js",
-    "static/js/164.c21afc7b.chunk.js": "/kamus-hulonthalo/static/js/164.c21afc7b.chunk.js",
+    "static/js/673.efad0bdd.chunk.js": "/kamus-hulonthalo/static/js/673.efad0bdd.chunk.js",
+    "static/js/164.f93347dd.chunk.js": "/kamus-hulonthalo/static/js/164.f93347dd.chunk.js",
     "static/js/303.94c5e4da.chunk.js": "/kamus-hulonthalo/static/js/303.94c5e4da.chunk.js",
-    "static/js/74.b314a1cb.chunk.js": "/kamus-hulonthalo/static/js/74.b314a1cb.chunk.js",
+    "static/js/74.fb07c425.chunk.js": "/kamus-hulonthalo/static/js/74.fb07c425.chunk.js",
     "static/js/453.df43f6c7.chunk.js": "/kamus-hulonthalo/static/js/453.df43f6c7.chunk.js",
-    "static/js/336.0e83d3ca.chunk.js": "/kamus-hulonthalo/static/js/336.0e83d3ca.chunk.js",
+    "static/js/336.285fad15.chunk.js": "/kamus-hulonthalo/static/js/336.285fad15.chunk.js",
     "index.html": "/kamus-hulonthalo/index.html",
     "main.0933676c.css.map": "/kamus-hulonthalo/static/css/main.0933676c.css.map",
-    "main.1dd0a8a3.js.map": "/kamus-hulonthalo/static/js/main.1dd0a8a3.js.map"
+    "main.a8f10c4a.js.map": "/kamus-hulonthalo/static/js/main.a8f10c4a.js.map"
   },
   "entrypoints": [
     "static/css/main.0933676c.css",
-    "static/js/main.1dd0a8a3.js"
+    "static/js/main.a8f10c4a.js"
   ]
 }

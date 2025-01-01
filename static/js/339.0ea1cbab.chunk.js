@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkamus_hulonthalo=self.webpackChunkkamus_hulonthalo||[]).push([[339],{339:a=>{a.exports=JSON.parse('[{"word":"Caparuni","definition":"Jorok"}]')}}]);
