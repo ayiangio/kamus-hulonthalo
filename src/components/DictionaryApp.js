@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import '../styles/DictionaryApp.css';
 
 const DictionaryApp = () => {
@@ -6,31 +6,30 @@ const DictionaryApp = () => {
   const [data, setData] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
-  // Memuat semua data JSON sekaligus
-  useEffect(() => {
-    const fetchAllData = async () => {
-      setIsLoading(true);
-      try {
-        const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-        const allDataPromises = letters.map(async (letter) => {
-          const module = await import(`../data/${letter}.json`);
-          return module.default;
-        });
-        const allData = await Promise.all(allDataPromises);
-        setData(allData.flat());
-      } catch (error) {
-        console.error('Error loading data:', error);
-        setData([]);
-      } finally {
-        setIsLoading(false);
-      }
-    };
-
-    fetchAllData();
-  }, []);
+  // Fungsi untuk memuat data berdasarkan huruf pertama
+  const fetchData = async (letter) => {
+    setIsLoading(true);
+    try {
+      const module = await import(`../data/${letter.toUpperCase()}.json`);
+      setData(module.default);
+    } catch (error) {
+      console.error('Error loading data:', error);
+      setData([]); // Kosongkan data jika file tidak ditemukan
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const handleSearchChange = (e) => {
-    setSearchQuery(e.target.value);
+    const query = e.target.value;
+    setSearchQuery(query);
+
+    if (query.length > 0) {
+      const firstLetter = query[0].toLowerCase();
+      fetchData(firstLetter);
+    } else {
+      setData([]); // Kosongkan data jika input kosong
+    }
   };
 
   const filteredWords = data.filter((entry) =>
