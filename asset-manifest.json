@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kamus-hulonthalo/static/css/main.0933676c.css",
-    "main.js": "/kamus-hulonthalo/static/js/main.5ab86176.js",
+    "main.js": "/kamus-hulonthalo/static/js/main.1dd0a8a3.js",
     "static/js/541.10b719ff.chunk.js": "/kamus-hulonthalo/static/js/541.10b719ff.chunk.js",
     "static/js/312.a6dec1db.chunk.js": "/kamus-hulonthalo/static/js/312.a6dec1db.chunk.js",
     "static/js/339.0ea1cbab.chunk.js": "/kamus-hulonthalo/static/js/339.0ea1cbab.chunk.js",
@@ -30,10 +30,10 @@
     "static/js/336.0e83d3ca.chunk.js": "/kamus-hulonthalo/static/js/336.0e83d3ca.chunk.js",
     "index.html": "/kamus-hulonthalo/index.html",
     "main.0933676c.css.map": "/kamus-hulonthalo/static/css/main.0933676c.css.map",
-    "main.5ab86176.js.map": "/kamus-hulonthalo/static/js/main.5ab86176.js.map"
+    "main.1dd0a8a3.js.map": "/kamus-hulonthalo/static/js/main.1dd0a8a3.js.map"
   },
   "entrypoints": [
     "static/css/main.0933676c.css",
-    "static/js/main.5ab86176.js"
+    "static/js/main.1dd0a8a3.js"
   ]
 }
